@@ -1,4 +1,4 @@
-; aquamarine patch code version 2
+; novaur patch code version 1
 
 
 .3ds
@@ -149,12 +149,12 @@ replace_function_addr equ 0x11AA70
 		.asciiz "pokemon-gl.com"
 	
 	replacementPretendo:
-		.asciiz "pretendo.cc"
+		.asciiz "ecliipse.app"
 
 	targetAquamarine:
 		.asciiz "discovery.olv.nintendo.net"
 	
 	replacementAquamarine:
-		.asciiz "disc.olv.nonamegiven.xyz"
+		.asciiz "disc.olv.ecliipse.app"
 		
 .close
